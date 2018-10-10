@@ -1,2 +1,2 @@
 # codestyle
-code style preferences
+einheitlicher code style für phpstorm 
