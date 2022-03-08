@@ -1,5 +1,8 @@
-<code_scheme name="Default (1)" version="173">
-  <JSCodeStyleSettings>
+<code_scheme name="itn" version="173">
+  <HTMLCodeStyleSettings>
+    <option name="HTML_KEEP_WHITESPACES_INSIDE" value="pre,textarea" />
+  </HTMLCodeStyleSettings>
+  <JSCodeStyleSettings version="0">
     <option name="SPACE_BEFORE_FUNCTION_LEFT_PARENTH" value="false" />
     <option name="SPACE_BEFORE_CLASS_LBRACE" value="false" />
     <option name="SPACE_BEFORE_ASYNC_ARROW_LPAREN" value="false" />
@@ -15,9 +18,6 @@
     <option name="KEEP_RPAREN_AND_LBRACE_ON_ONE_LINE" value="true" />
     <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
   </PHPCodeStyleSettings>
-  <XML>
-    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
-  </XML>
   <codeStyleSettings language="JSON">
     <indentOptions>
       <option name="INDENT_SIZE" value="4" />
