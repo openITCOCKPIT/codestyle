@@ -1,5 +1,29 @@
 # Codestyle for openITCOCKPIT
 
+This document contains guidelines **every developer has to follow**, when developing code for the openITCOCKPIT project.
+The document contains information about the usage of third-party software and provides a coding style guideline for JetBrains IDEs.
+
+## Third-party packages and dependencies
+
+Most of the source code of the openITCOCKPIT project is dual licensed under the `GNU General Public License 3`
+and the proprietary `openITCOCKPIT Enterprise Edition License`.
+
+Therefore, we **cannot use** any third-party dependencies, libraries, or code snippets that are licensed under a [Copyleft](https://en.wikipedia.org/wiki/Copyleft) license.
+Whenever adding a new dependency (`npm`, `composer`, `go`, ...), you have to make sure that the dependencies (and any child dependencies) are
+licensed under one of the following open source licenses:
+
+- [MIT License](https://opensource.org/license/mit)
+- [Apache License 2.0](https://opensource.org/license/apache-2-0)
+- BSD License ([2-Clause](https://opensource.org/license/bsd-2-clause) or [3-Clause](https://opensource.org/license/bsd-3-clause))
+- [ISC License](https://opensource.org/license/isc-license-txt)
+- [GNU Lesser General Public License version 2.1](https://opensource.org/license/lgpl-2-1)
+
+> [!CAUTION]
+> Protective Licenses / Licenses with a strong Copyleft **cannot be used**.
+> For example, `GNU General Public License` or `GNU Affero General Public License` **cannot be used** within the openITCOCKPIT project!
+
+## Codestyle
+
 This document describes how to set up PhpStorm, to develop for openITCOCKPIT.
 
 - PhpStorm: [openITCOCKPIT.xml](openITCOCKPIT.xml)
