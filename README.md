@@ -78,7 +78,7 @@ Insert the following license information
 
 ```
 Copyright (C) 2015-2025  it-novum GmbH
-Copyright (C) 2025-today Allgeier IT Services GmbH
+Copyright (C) 2025-today AVENDIS GmbH
 
 This file is dual licensed
 
@@ -105,7 +105,7 @@ This file is dual licensed
 Create a second profile `Enterprise` with this license information
 ```
 Copyright (C) 2015-2025  it-novum GmbH
-Copyright (C) 2025-today Allgeier IT Services GmbH
+Copyright (C) 2025-today AVENDIS GmbH
 
 This file is licensed under the terms of the openITCOCKPIT Enterprise Edition license agreement.
 The license agreement and license key were sent with the order confirmation.
